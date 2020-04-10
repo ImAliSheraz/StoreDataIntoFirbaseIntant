@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440209893",
+    "firebase_url": "https://datastorefirbase-783b8.firebaseio.com",
+    "project_id": "datastorefirbase-783b8",
+    "storage_bucket": "datastorefirbase-783b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440209893:android:4ed14e8c98f0ca580c9f0c",
+        "android_client_info": {
+          "package_name": "com.buddytrainers.storedataintofirbaseintant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440209893-s4hhar7j2anr55i2kph2b5eqnaa2tuv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buddytrainers.storedataintofirbaseintant",
+            "certificate_hash": "acb3ff1726f653bd5faaaf547892d26db48f06ed"
+          }
+        },
+        {
+          "client_id": "440209893-5hn3ed51q795juvq31lus61i6dinp1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQ0kYOlpLj2tAegzzY0KfCv4fQk6KIjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440209893-5hn3ed51q795juvq31lus61i6dinp1bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
